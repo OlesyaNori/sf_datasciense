@@ -1,16 +1,16 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
+[1. Описание проекта](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/README.md#Результат)    
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -30,20 +30,20 @@
 ### Краткая информация о данных
 
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 - Создали функцию выбирающую случайное число в указанном диапазоне (по умолчанию от 1 до 100), а затем сравниваем это число с загаданным. Если число не совпадает, сужаем диапазон. Функция так же подсчитывает количество попыток.
 - Создали функцию для определения среднего числа попыток угадать число. 
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/README.md#Оглавление)
 
 
 ### Результаты:  
 Создали программу, которая выдаёт верный результат за минимальное количество повторений.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/README.md#Оглавление)
 
 
 
