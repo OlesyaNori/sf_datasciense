@@ -29,7 +29,9 @@
 
 ### Краткая информация о данных
 
-  
+- файл game_v2.py - содержит код программы и созхданные функции
+- файл game.ipynd - сожержит ноутбук с презентацией разработанной программы
+
 :arrow_up:[к оглавлению](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/readme.md#Оглавление)
 
 
@@ -40,7 +42,7 @@
 :arrow_up:[к оглавлению](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/readme.md#Оглавление)
 
 
-### Результаты:  
+### Результат  
 Создали программу, которая выдаёт верный результат за минимальное количество повторений.
 
 :arrow_up:[к оглавлению](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/readme.md#Оглавление)
