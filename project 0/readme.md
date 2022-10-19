@@ -26,6 +26,7 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
+:arrow_up:[к оглавлению](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/readme.md#Оглавление)
 
 ### Краткая информация о данных
 
