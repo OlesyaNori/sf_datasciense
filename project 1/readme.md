@@ -23,7 +23,7 @@
 
 ### Краткая информация о данных
 
-- файл Project-1. Ноутбук-шаблон.ipynb - содержит код и созданные графики
+- файл [Project-1. Ноутбук-шаблон.ipynb](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%201/Project-1.%20Ноутбук-шаблон.ipynb) - содержит код и созданные графики
 - файлы, на основе которых проводился анализ, можно скачать [здесь](https://drive.google.com/drive/folders/1BRN4yryMCE4Tm6GDqhZieSQYnkalvUOY?usp=share_link). Для корректной работы необходимо скачать файлы и сохранить их в папке 'data' в одной дериктории с исходным файлом. 
 
 :arrow_up:[к оглавлению](#Оглавление)
