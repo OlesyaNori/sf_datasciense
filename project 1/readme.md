@@ -42,7 +42,7 @@
 ### Результат  
 Провели анализ данных, преобразовали и отчистили их для дальнейшей работы.
 
-:arrow_up:[к оглавлению](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/readme.md#Оглавление)
+:arrow_up:[к оглавлению](#Оглавление)
 
 
 
