@@ -9,3 +9,4 @@ From the ScillFactory course
 * [Visualization Project](https://github.com/OlesyaNori/sf_datasciense/blob/main/Visualization%20Project/Final%20visualization%20tasks.ipynb)
 * [Project 1. HeadHunter resume analysis](https://github.com/OlesyaNori/sf_datasciense/tree/main/project%201)
 * [Project 2. HeadHunter resume analysis SQL](https://github.com/OlesyaNori/sf_datasciense/tree/main/project%202)
+* [Homework on the topic of EDA](https://github.com/OlesyaNori/sf_datasciense/tree/main/project%202)
