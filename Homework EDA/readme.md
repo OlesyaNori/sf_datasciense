@@ -1,7 +1,7 @@
 # Домашнее задания по теме "Разведывательный анализ данных"
 
 ## Оглавление  
-[1. Статистические тесты](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%200/readme.md#Описание-проекта)  
+[1. Статистические тесты](https://github.com/OlesyaNori/sf_datasciense/blob/main/Homework%20EDA/Stat_test.ipynb)  
 
 
 ### Описание    
