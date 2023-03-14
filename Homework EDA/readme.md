@@ -2,7 +2,7 @@
 
 ## Оглавление  
 [1. Статистические тесты](https://github.com/OlesyaNori/sf_datasciense/blob/main/Homework%20EDA/Stat_test.ipynb)  
-[2. А/В-тестирование] (https://github.com/OlesyaNori/sf_datasciense/blob/main/Homework%20EDA)
+[2. А/В-тестирование](https://github.com/OlesyaNori/sf_datasciense/blob/main/Homework%20EDA)  
 [3. Логирование данных с помощью Comet.ml](https://github.com/OlesyaNori/sf_datasciense/blob/main/Homework%20EDA/cometml_HW.ipynb)  
 
 
