@@ -25,7 +25,7 @@
 
 ### Краткая информация о данных
 
-- файл [EDA_Project_3_model.ipynb](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%202/Project_2_Ноутбук_шаблон.ipynb) - содержит код работы по преобразованию данных для модели. Код самой модели выдан преподавателем.
+- файл [EDA_Project_3_model.ipynb](https://github.com/OlesyaNori/sf_datasciense/blob/main/project%203/EDA_Project_3_model.ipynb) - содержит код работы по преобразованию данных для модели. Код самой модели выдан преподавателем.
 
 :arrow_up:[к оглавлению](#Оглавление)
 
