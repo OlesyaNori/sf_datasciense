@@ -11,3 +11,4 @@ From the ScillFactory course
 * [Project 2. HeadHunter resume analysis SQL](https://github.com/OlesyaNori/sf_datasciense/tree/main/project%202)
 * [Homework on the topic of EDA](https://github.com/OlesyaNori/sf_datasciense/tree/main/Homework%20EDA)
 * [Project 3. EDA + Feature Engineering.](https://github.com/OlesyaNori/sf_datasciense/tree/main/project%203)
+* [Homework on the topic of ML](https://github.com/OlesyaNori/sf_datasciense/tree/main/Homework%20ML)
