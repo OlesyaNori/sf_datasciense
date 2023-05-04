@@ -2,7 +2,7 @@
 
 ## Оглавление  
 [1. Логистическая регрессия и Деревья решений](https://github.com/OlesyaNori/sf_datasciense/blob/main/Homework%20ML/ML3.ipynb)  
-
+[2. Отбор признаков различными методами](https://github.com/OlesyaNori/sf_datasciense/blob/main/Homework%20ML/ML6.ipynb)  
 
 
 ### Описание    
