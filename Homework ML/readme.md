@@ -5,7 +5,6 @@
 [2. Отбор признаков различными методами](https://github.com/OlesyaNori/sf_datasciense/blob/main/Homework%20ML/ML6.ipynb) 
 [3. Оптимизация гиперпараметров модели](https://github.com/OlesyaNori/sf_datasciense/blob/main/Homework%20ML/ML7.ipynb)  
 
-
 ### Описание    
 Представленны домашние задания по теме "Машинное обучение". 
 
