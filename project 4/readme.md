@@ -1,4 +1,4 @@
-# <center> Проект: EDA + Feature Engineering
+# <center> Проект: Classification task
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)  
