@@ -12,4 +12,5 @@ From the ScillFactory course
 * [Homework on the topic of EDA](https://github.com/OlesyaNori/sf_datasciense/tree/main/Homework%20EDA)
 * [Project 3. EDA + Feature Engineering.](https://github.com/OlesyaNori/sf_datasciense/tree/main/project%203)
 * [Homework on the topic of ML](https://github.com/OlesyaNori/sf_datasciense/tree/main/Homework%20ML)
-* [Project 4. Classification task](https://github.com/OlesyaNori/sf_datasciense/tree/main/project%204)
+* [Project 4. Рrediction whether the client will make a deposit](https://github.com/OlesyaNori/sf_datasciense/tree/main/project%204)
+* [Project 5. Predicting the duration of the trip](https://github.com/OlesyaNori/sf_datasciense/tree/main/project%205)
