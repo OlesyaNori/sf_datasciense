@@ -1,4 +1,4 @@
-# <center> Проект: Classification task
+# <center> Проект: Predicting the duration of the trip
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)  
