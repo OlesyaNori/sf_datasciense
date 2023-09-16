@@ -20,8 +20,7 @@
 :arrow_up:[к оглавлению](#Оглавление)
 
 ### Краткая информация о данных
-
-Перед работой из изначального [дататсета]( https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1) я отобрала данные с пометкой класса 0 - 'Fully Paid' и 1 - 'Charged Off' и заранее выбранные колонки.
+- Перед работой из изначального [дататсета]( https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1) я отобрала данные с пометкой класса 0 - 'Fully Paid' и 1 - 'Charged Off' и заранее выбранные колонки.
 
 ``` python
 data = pd.read_csv("accepted_2007_to_2018Q4.csv")
@@ -30,6 +29,10 @@ columns = ['acc_now_delinq','addr_state','annual_inc','chargeoff_within_12_mths'
 data = data [columns]
 data.to_csv('loan_status.csv')
 ```
+
+- файл [noritsyna.ipynb](https://github.com/OlesyaNori/sf_datasciense/blob/main/final_work/noritsyna.ipynb) - содержит код, созданные графики и полученные результаты
+
+- файл [requirements.txt] - (https://github.com/OlesyaNori/sf_datasciense/blob/main/final_work/requirements.txt)  содержит список внешних зависимостей.
 
 :arrow_up:[к оглавлению](#Оглавление)
 
