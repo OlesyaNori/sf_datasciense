@@ -32,7 +32,7 @@ data.to_csv('loan_status.csv')
 
 - файл [noritsyna.ipynb](https://github.com/OlesyaNori/sf_datasciense/blob/main/final_work/noritsyna.ipynb) - содержит код, созданные графики и полученные результаты
 
-- файл [requirements.txt] - (https://github.com/OlesyaNori/sf_datasciense/blob/main/final_work/requirements.txt)  содержит список внешних зависимостей.
+- файл [requirements.txt](https://github.com/OlesyaNori/sf_datasciense/blob/main/final_work/requirements.txt)  содержит список внешних зависимостей.
 
 :arrow_up:[к оглавлению](#Оглавление)
 
